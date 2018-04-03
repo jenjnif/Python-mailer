@@ -5,3 +5,4 @@ Lunch Run - 12:00pm
 Home time - 5:30pm
 Climbing - 6:00pm
 Dinner - 9:00pm
+Sleep time - 10:00pm

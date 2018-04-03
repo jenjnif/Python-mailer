@@ -1,3 +1,3 @@
 person1@email.com, Matt Damon 
-person2@email.com, Tyler Hamilton
+person2@email.com, Jennifer Aniston
 person3@email.com, Alex Honnold
